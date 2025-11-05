@@ -33,6 +33,7 @@ function Card() {
             </div>
 
 
+            <h1>Uploded in github One</h1>
             <h1>Dynamic & Conditional Inline Style</h1>
             <div style={{
                 // display: "flex", 
@@ -170,6 +171,8 @@ function Card() {
                         <h3>Nazir Ahmad</h3>
                         <h4>Web Developer</h4>
                     </div>
+
+
                 </div>
 
 
