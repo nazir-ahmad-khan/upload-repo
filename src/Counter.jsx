@@ -17,6 +17,7 @@ function Counter() {
                 This is a Counter
             </h1>
 
+            <h1>Update Number: {count} </h1>
             <h2>Update Number: {count} </h2>
 
             <button onClick={counting}>Next</button>
