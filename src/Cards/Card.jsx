@@ -167,9 +167,12 @@ function Card() {
                         src={img} alt="Profile Image" />
                     <div style={{ color: textColor }}>
                         <h2>Nazir Ahmad</h2>
+                        <h3>Nazir Ahmad</h3>
                         <h4>Web Developer</h4>
                     </div>
                 </div>
+
+
 
 
 
