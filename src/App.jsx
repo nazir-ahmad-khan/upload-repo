@@ -10,6 +10,7 @@ import OptionsValue from './Value/OptionsValue'
 import UserMap from './Value/userMap'
 import Clock from './Value/Clock'
 import Card from './Cards/Card'
+import Ref from './Cards/Ref'
 
 
 
@@ -50,6 +51,10 @@ const namePrevious =()=>{
       <option value={"blue"}>blue</option>
     </select> */}
       
+
+      <div>
+        <Ref />
+      </div>
       <div>
         <Card />
       </div>
