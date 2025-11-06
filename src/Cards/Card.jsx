@@ -30,7 +30,7 @@ function Card() {
         
             <div>
                 <button onClick={() => updateTheme('#f5f5f5', 'red')}>Update Card</button>
-                <button onClick={() => updateTheme('white', 'black')}>Update Card</button>
+                <button onClick={() => updateTheme('white', 'black')}>Update Card Text</button>
                 <button onClick={() => setGrid(!grid)}>Toggle Grid</button>
             </div>
 
